@@ -13,7 +13,7 @@ Go to [My Github Pages](https://buuloooy0318.github.io/batch6-activities/).
 3. [Activity 3](https://buuloooy0318.github.io/batch6-activities/HTML_CSS/Activity-3%20Chess%20Board%20Flex/index.html) - Chess Board Flex.
 4. [Activity 4](https://buuloooy0318.github.io/batch6-activities/HTML_CSS/Activity-4%20Chess%20Board%20Grid/chess.html) - Chess Board Grid.
 5. [Activity 5](https://buuloooy0318.github.io/batch6-activities/HTML_CSS/Activity-5%20Landing%20Pages/landingpage.html) - Landing Page.
-6. [Activity 6](https://buuloooy0318.github.io/batch6-activities/) - Tic Tac Toe with DOM.
+6. [Activity 6](https://buuloooy0318.github.io/batch6-activities/JS/Coding%20Challenges/Coding%20Challenge-1%20BMI%20Calculator/Activity/Activity-1%20TicTacToe/index.html) - Tic Tac Toe with DOM.
 
 ## Coding Challenges
 1. [Coding Challenge 1](https://buuloooy0318.github.io/batch6-activities/JS/Coding%20Challenges/Coding%20Challenge-1%20BMI%20Calculator/index.html) - BMI Formula.
