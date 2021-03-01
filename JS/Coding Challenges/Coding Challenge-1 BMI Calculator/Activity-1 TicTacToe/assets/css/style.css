@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Reggae+One&display=swap");
+
+body {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: wheat;
+  flex-direction: column;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+}
+
+.cell {
+  width: 7rem;
+  height: 7rem;
+  background-color: white;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.board {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  gap: 5px;
+}
+
+.X {
+  font-size: 4rem;
+  font-family: "Reggae One", cursive;
+}
+.O {
+  font-size: 4rem;
+  font-family: "Reggae One", cursive;
+}
+
+.game-status {
+  font-size: 1rem;
+  font-family: "Reggae One", cursive;
+  padding: 10px 10px;
+}
+
+.button-grp {
+  display: flex;
+  margin: 30px 50px;
+  padding: 20px 20px;
+  justify-content: center;
+  visibility: hidden;
+}
+
+button {
+  font-family: "Helvetica", sans-serif;
+  width: 100px;
+  height: 40px;
+  border: none;
+  letter-spacing: 2px;
+  font-weight: 800;
+  font-size: 1.6em;
+  background-color: #3498db;
+  color: white;
+  border-radius: 16px;
+  margin: auto;
+  top: 0px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.btn-restart {
+  width: 350px;
+}
+
+@media only screen and (max-width: 375px) {
+  .cell {
+    width: 7rem;
+    height: 7rem;
+    background-color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin: 0%;
+  }
+
+  .btn-restart {
+    width: 100%;
+  }
+
+  .button-grp {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    margin: 0%;
+  }
+}
