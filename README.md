@@ -18,7 +18,6 @@ Go to [My Github Pages](https://buuloooy0318.github.io/batch6-activities/).
 ## Coding Challenges
 1. [Coding Challenge 1](https://buuloooy0318.github.io/batch6-activities/JS/Coding%20Challenges/Coding%20Challenge-1%20BMI%20Calculator/index.html) - BMI Formula.
 2. [Coding Challenge 2](https://buuloooy0318.github.io/batch6-activities/JS/Coding%20Challenges/Coding%20Challenge-2%20Playing%20Cards/cards.html) - Playing Cards (Console Base).
-3. [Coding Challenge 3](https://buuloooy0318.github.io/batch6-activities/JS/Coding%20Challenges/Project%203/index.html) - Pig Game.
 
 
 
